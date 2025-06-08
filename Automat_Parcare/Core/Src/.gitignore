@@ -1,0 +1,22 @@
+# Ignore build files and binaries
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.log
+*.d
+
+# Ignore IDE folders
+.vscode/
+build/
+Debug/
+Release/
+*.launch
+*.cproject
+*.project
+*.settings/
+
+# CubeMX
+*.ioc
